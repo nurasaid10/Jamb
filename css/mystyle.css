@@ -1,0 +1,42 @@
+.bd{
+	background-color: gray;
+}
+.container{
+margin-top:20px;
+background-color:white;
+padding:10px;
+margin-bottom: 20px;
+border-top: 4px solid #000 !important;	
+}
+
+
+.myrow{
+	padding-bottom: 5px;
+}
+.navbar{
+	background-color: green !important;
+}
+p{
+	text-align: justify;
+}
+
+
+
+button{
+	background-color: red !important;
+	color: white;
+}
+.card-header, .card-footer{ 
+	background-color: black ;
+	color: white;
+}
+.card-body {
+	height: 200px !important;
+	overflow:scroll;
+}
+hr{
+	height: 10px !important;
+	border: 2px !important;
+	box-shadow: 0 10px 10px -10px lawngreen inset !important;
+    margin-top: 0.5px !important;
+}
